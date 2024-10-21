@@ -1,5 +1,5 @@
 game.StarterGui:SetCore("SendNotification", {
-    Title = "THANK FOR 15 SUB";
+    Title = "THANK FOR 20 SUB !";
     Text = "good luck";
     Duration = 5;
 })
