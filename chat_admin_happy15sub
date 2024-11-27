@@ -1,6 +1,6 @@
 game.StarterGui:SetCore("SendNotification", {
-    Title = "V1.3";
-    Text = "THANK FOR 20 SUB !";
+    Title = "V1.4";
+    Text = "THANK FOR 24 SUB !";
     Duration = 5;
 })
 loadstring(game:HttpGet("https://raw.githubusercontent.com/HAPPY-script/HAPPY_admin_chat/refs/heads/main/HAPPY_admin_chat"))()
