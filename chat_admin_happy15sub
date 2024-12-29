@@ -105,7 +105,7 @@ local function fadeOut()
 
     -- Chạy script sau khi menu biến mất
     game.StarterGui:SetCore("SendNotification", {
-        Title = "V1.4";
+        Title = "V1.5";
         Text = "Thank you for supporting!";
         Duration = 5;
     })
