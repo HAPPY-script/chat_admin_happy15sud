@@ -46,7 +46,7 @@ task.spawn(function()
     for i = 1, #text do
         titleLabel.Text = text:sub(1, i)
         TweenService:Create(titleLabel, TweenInfo.new(0.5), {TextTransparency = 0}):Play()
-        task.wait(0.3) -- Làm chậm hơn
+        task.wait(0.2) -- Làm chậm hơn
     end
 end)
 
@@ -105,7 +105,7 @@ local function fadeOut()
 
     -- Chạy script sau khi menu biến mất
     game.StarterGui:SetCore("SendNotification", {
-        Title = "V1.5✔️";
+        Title = "V1.6✅";
         Text = "🔥Thank for like video!🔥";
         Duration = 5;
     })
