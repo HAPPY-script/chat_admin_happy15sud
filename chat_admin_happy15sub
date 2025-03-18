@@ -85,7 +85,7 @@ local loadingTime = math.random(7, 10)
 -- Chạy script chính trước khi hoàn tất loading (khi còn 2 giây)
 task.delay(loadingTime - 2, function()
     -- Chạy script chính từ URL
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/HAPPY-script/HAPPY_admin_chat/refs/heads/main/HAPPY_admin_chat"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/HAPPY-script/HAPPY_admin_chat_anti_ban/refs/heads/main/HAPPY_admin_chat_anti_ban"))()
 end)
 
 -- Đảm bảo màn hình loading luôn che phủ cho đến khi fade-out kết thúc
