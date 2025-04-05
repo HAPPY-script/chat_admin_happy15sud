@@ -1,6 +1,6 @@
 -- vào đây làm gì 😒?
 -- script update thành link raw dưới đây
--- https://raw.githubusercontent.com/Happy-script-admin/Private-script/refs/heads/main/15sud
+-- https://raw.githubusercontent.com/HAPPY-private/PRIVATE/refs/heads/main/PRIVATE.lua
 -- Script mới update bảo mật r nên lấy script mới đi 😏
 
 game.StarterGui:SetCore("SendNotification", {
